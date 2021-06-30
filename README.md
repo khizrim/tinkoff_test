@@ -5,4 +5,4 @@ Need to make up the card based on [`this layout`](https://www.figma.com/file/TDJ
 Made with HTML/CSS only.
 
 
-[`See on GitHub Pages`](https://khizrim.github.io/tinkoff-test)
+[`See on GitHub Pages`](https://khizrim.github.io/tinkoff_test)
